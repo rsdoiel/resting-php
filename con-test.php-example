@@ -1,0 +1,4 @@
+<?php
+/* Defines some configuration variables (e.g. MYSQL_CONNECTION_URL) to test persistence php library */
+$MYSQL_CONNECTION_URL = "mysqli://DB_USERNAME:DB_PASSWORD@DB_HOSTNAME/DB_NAME";
+?>
