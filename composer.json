@@ -1,5 +1,14 @@
 {
+    "name": "rsdoiel/resting",
+    "description": "A collection of PHP experiments in retrofiting legacy PHP code.",
     "require": {
-        "mustache/mustache": "~2.1"
-    }
+        "mustache/mustache": "2.1"
+    },
+    "license": "BSD 2-Clause License",
+    "authors": [
+        {
+            "name": "R. S. Doiel",
+            "email": "rsdoiel@yahoo.com"
+        }
+    ]
 }
